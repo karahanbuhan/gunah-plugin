@@ -1,3 +1,9 @@
+## Geliştirici Notu (Kişisel Arşiv)
+
+> Bu eklentiyi yazdığımda (2014) henüz **13 yaşındaydım** (2001 doğumluyum). O zamanlar Java'yı ve kodlamayı yeni keşfediyordum, tamamen eğlence amaçlı ve arkadaş ortamında gülmek için böyle bir proje ortaya çıkarmıştım.
+
+> Bugün geriye dönüp baktığımda kodlar çok acemice ve basit görünebilir; ancak bu proje benim için o dönemki Minecraft sunucu günlerimden ve çocukluğumdan kalan kıymetli bir hatıradır.
+
 # Günah Plugini (v1.0 - 2014 Arşivi)
 
 Bu depo, 2014 yılında bir Minecraft Forumunda tarafımca geliştirilip paylaşılan ve dönemin sunucularında eğlence amaçlı kullanılan "Günah Plugini"nin korunmuş orijinal kodlarını içerir.
